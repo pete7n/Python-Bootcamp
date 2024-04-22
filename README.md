@@ -2,8 +2,8 @@
 
 <h2>Description</h2>
 Sharping those python skills. Soaking up that information like a sponge.
-'The Complete Python Bootcamp From Zero to Hero in Python' from udemy.
-<br />
+<p>I'm following 'The Complete Python Bootcamp From Zero to Hero in Python' from udemy.</p>
+
 
 <h2>What I've been using:</h2>
 

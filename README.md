@@ -60,6 +60,6 @@ Useful Operators: range, zip, enumerate, in operator, not in, min and max, rando
 <img src="https://imgur.com/k32KVSW.png" height="80%" width="80%" alt="python bootcamp"/>
 List comprehensions.  <br/>
 <br />
-During the assessment task it was good to code a programme for the classic counting game 'FizzBuzz', which I had used many times previously in the classroom with children. <br/>
+During the assessment task it was good to code a program for the classic counting game 'FizzBuzz', which I had used many times previously in the classroom with children. <br/>
 <img src="https://imgur.com/RNjTMzb.png" height="80%" width="80%" alt="python bootcamp"/>
 </p>

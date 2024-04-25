@@ -13,7 +13,7 @@ Sharping those python skills. Soaking up that information like a sponge.
 - <b>Sublime Text</b>
 - <b>GitHub (obviously)</b>
 
-<h2>What I've been learning:</h2>
+<h2>Chronology of what I've been learning:</h2>
 
 <h3>Python Data Types:</h3> 
 <p>

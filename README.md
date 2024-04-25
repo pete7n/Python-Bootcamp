@@ -9,7 +9,7 @@ Sharping those python skills. Soaking up that information like a sponge.
 
 - <b>Python 3</b>
 - <b>Anaconda</b>
-- <b>Jupyter</b>
+- <b>Jupyter Notebook</b>
 - <b>Sublime Text</b>
 - <b>GitHub (obviously)</b>
 
